@@ -18,6 +18,8 @@ This poject is a a pothole detection system using ultrasonic sensors installed i
 
 ## Flow Chart
 
+<img src="https://github.com/AichaSidiya/PotholeDetection/blob/main/flowChart.png"/>
+
 ## Built With
 
 - [Tinkercad](https://www.tinkercad.com/)
