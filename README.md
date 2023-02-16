@@ -38,6 +38,11 @@ The Idea of the project is to place ultrasonic sensors on 50 cars from Careem an
 * [Aicha Sidiya](https://github.com/AichaSidiya)
 * [Hanin Alzaher](https://github.com/hanin-az)
 * Razan Almahdi
-* Thoraya
+* Thoraya Musa
 
+## Acknowledgement
+
+<!-- Insparation files, codes, and general refrences used in writing the code of the project-->
+* [Tinker-Template](https://www.tinkercad.com/things/cyZ2NyNAhiZ)
+* [Sayan Ghosh, Abhishek Singha, Sanchari Majumdar, Shweta Kumari, Subhrakanti Samanta, Sangita Roy. Pothole and object detection with respect to the speed of a vehicle using sensors in Arduino UNO board, International Journal of Advance Research, Ideas and Innovations in Technology, www.IJARIIT.com.](https://www.ijariit.com/manuscript/pothole-and-object-detection-with-respect-to-the-speed-of-a-vehicle-using-sensors-in-arduino-uno-board/)
 
