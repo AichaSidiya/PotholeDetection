@@ -4,6 +4,7 @@
 - [Pothole Detection](#pothole-detection) <!--Link to the title of the project-->
   * [Purpose](#purpose) <!--Link to the purpose of the project-->
   * [Description](#description) <!--Link to the purpose of the project-->
+   + [Material](#material)
   * [Flow chart](#flow-chart) <!--Link to the purpose of the project-->
   * [Build With](#build-with) <!--Link to the Contributors of the project-->
   * [Authors](#authors) <!--Link to the Contributors of the project-->
@@ -15,6 +16,7 @@ This poject is a a pothole detection system using ultrasonic sensors installed i
 ![alt text](https://github.com/AichaSidiya/PotholeDetection/blob/main/demoPothole.gif)
 
 ## Description
+### Material
 
 ## Flow Chart
 
