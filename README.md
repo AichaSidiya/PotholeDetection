@@ -10,7 +10,7 @@
 <!--Purpose of the project-->
 This poject is a a pothole detection system using ultrasonic sensors installed in cars. The aim of this project is to alert drivers of potholes in roads to avoid the damages caused by potholes.
 
-![alt text](https://github.com/AichaSidiya/HijraRoad/blob/main/demoHijraa.gif)
+![alt text](https://github.com/AichaSidiya/PotholeDetection/blob/main/demoPothole.gif)
 
 ## Built With
 
