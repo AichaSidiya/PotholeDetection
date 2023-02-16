@@ -16,8 +16,14 @@ This poject is a a pothole detection system using ultrasonic sensors installed i
 ![alt text](https://github.com/AichaSidiya/PotholeDetection/blob/main/demoPothole.gif)
 
 ## Description
+The Idea of the project is to place ultrasonic sensors on 50 cars from Careem and Uber in Jeddah to cover most neighberhoods in Jeddah. The cars will collect the data in regards to the location, depth, width of potholes detect in Jeddah roads. The data will then be transfered to google maps and users will be alerted whenver they are close to a pothole. 
 ### Material
-
+* Ultrasonic distance sensor
+* Speedometer
+* Arduino Uno board
+* Connecting wires
+* LCD display
+* GPS Tracker
 ## Flow Chart
 
 <img src="https://github.com/AichaSidiya/PotholeDetection/blob/main/flowChart.png"/>
