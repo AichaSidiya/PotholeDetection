@@ -37,7 +37,7 @@ The Idea of the project is to place ultrasonic sensors on 50 cars from Careem an
 <!-- The contributors to the project-->
 * [Aicha Sidiya](https://github.com/AichaSidiya)
 * [Hanin Alzaher](https://github.com/hanin-az)
-* Razan Almahdi
+* [Razan Almahdi](https://github.com/RazanAlmahdi)
 * Thoraya Musa
 
 ## Acknowledgement
